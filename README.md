@@ -2,7 +2,7 @@
   <a href="https://rentry.co/whm"> rentry</a> &  <a href="https://faerie.straw.page/"> strawpage
 
 <p align="center"> sona / evie / button
-<p align="center"> any pronouns 19
+<p align="center"> any pronouns 20
 <p align="center"> cuddles + whisps ok !
 <p align="center"> i hide freely >_>
 <p align="center"> usually afk / off-tab, send a whisper if you wanna chat !
