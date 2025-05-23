@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://rentry.co/whm"> rentry</a> &  <a href="https://faerie.straw.page/"> strawpage
 
 <p align="center"> sona / evie / button
 <p align="center"> any pronouns 20
