@@ -1,16 +1,16 @@
-## Hi there 👋
+<p align="center">
+<h4 align="center"
 
-<!--
-**aquaveil/aquaveil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sona / evie / button
 
-Here are some ideas to get you started:
+any pronouns 20
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+cuddles + whisps ok!
+
+i hide freely >_>
+
+usually afk / off-tab, send a whisper if you wanna chat !
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=eviese&count=4&show_user=header&footer_style=normal_stats&bg_color=000000)
+
+![](https://komarev.com/ghpvc/?username=aquaveil&color=lightgrey&abbreviated=true)
